@@ -5,15 +5,15 @@
   "manifest_version": 3,
   "permissions": ["tabs", "storage"],
   "background": {
-    "service_worker": "background.js"
+    "service_worker": "js/background.js"
   },
   "icons": {
-    "16": "sleepy_stack_favicon.png",
-    "48": "sleepy_stack_favicon.png",
-    "128": "sleepy_stack_favicon.png"
+    "16": "img/sleepy_stack_favicon.png",
+    "48": "img/sleepy_stack_favicon.png",
+    "128": "img/sleepy_stack_favicon.png"
   },
   "action": {
-    "default_popup": "popup.html",
+    "default_popup": "html/popup.html",
     "default_title": "SleepyStack has your back"
   }
 }
