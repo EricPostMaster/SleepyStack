@@ -1,0 +1,19 @@
+{
+  "name": "SleepyStack - Stack Overflow Blocker",
+  "description": "Block Stack Overflow tabs late at night so you can stop debugging and go to bed.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["tabs", "storage"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "sleepy_stack_favicon.png",
+    "48": "sleepy_stack_favicon.png",
+    "128": "sleepy_stack_favicon.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "SleepyStack has your back"
+  }
+}
