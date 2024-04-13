@@ -14,7 +14,9 @@ If you find yourself debugging and searching Stack Overflow until the wee hours 
 
 ## Using the Extension:
 
-I have submitted the extension to the Chrome Web Store, but you can run it locally until it's approved. Here's how:
+[SleepyStack is now available in the Chrome Web Store!](https://chromewebstore.google.com/detail/sleepystack-stack-overflo/lpboffdogpnikaiahljfiepgmlafmdjb)
+
+If you prefer to run it locally, here's how:
 
 1. Clone this repo so you have the entire SleepyStack app on your computer in a single folder
 1. Go to `chrome://extensions/` in your browser
@@ -22,7 +24,7 @@ I have submitted the extension to the Chrome Web Store, but you can run it local
 1. Select the SleepyStack folder in the folder upload dialogue that opens
 1. Chrome will add SleepyStack to your browser
 
-That's it!
+Thanks for using the extension!
 
 ## Background:
 
